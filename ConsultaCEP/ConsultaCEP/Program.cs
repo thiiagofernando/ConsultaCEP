@@ -38,7 +38,7 @@ namespace ConsultaCEP
                 Console.ReadKey();
             }
 
-            return cep;
+            return null;
         }
     }
 }
